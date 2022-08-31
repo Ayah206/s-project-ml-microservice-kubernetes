@@ -12,7 +12,6 @@ kubectl run api\
     --image=$dockerpath\
     --port=80 --labels app=api
 
-
 # Step 3:
 # List kubernetes pods
 kubectl get pods
