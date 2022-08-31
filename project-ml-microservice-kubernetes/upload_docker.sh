@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=ayah206/api:latest
+dockerpath=ayah206/api
 
 # Step 2:  
 # Authenticate & tag
